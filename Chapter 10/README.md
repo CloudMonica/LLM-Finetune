@@ -1,0 +1,2 @@
+qlora_chatgm3_timestamp.ipynb  训练最后loss为0
+怀疑是过拟合，在inference中测试了下一些基础的问题，发现没有问题
