@@ -1,0 +1,1 @@
+感觉微调前的Chatglm3-6B在advertising这方面也不弱
